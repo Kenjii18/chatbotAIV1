@@ -1,0 +1,8 @@
+openai
+python-dotenv
+fastapi
+uvicorn
+faster-whisper
+sounddevice
+scipy
+openwakeword
